@@ -22,10 +22,6 @@ Este projeto é um sistema de pedidos para uma lanchonete, desenvolvido em C#. E
    ```
 5. Siga as instruções no menu interativo para fazer seu pedido.
 
-## Integrantes do Grupo
-- Guilherme Catelli Bichaco RM: 97989
-- Vinicius Sobreira Borges RM: 97767
-
 ## Versão do .NET/C# Utilizada
 - .NET versão: 8.0
 - Linguagem: C#
